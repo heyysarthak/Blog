@@ -1,5 +1,5 @@
 #button {
-  background-color: bisque;
+  background-color: white;
   padding: 30px 60px;
   font-size: 35px;
   border-radius: 10px;
@@ -7,7 +7,7 @@
 }
 
 #button:hover {
-  background-color: aquamarine;
+  background-color: black;
   cursor: pointer;
 }
 
